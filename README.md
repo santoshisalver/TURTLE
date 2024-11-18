@@ -21,4 +21,3 @@ This program showcases how basic programming concepts like loops, randomization,
 
 
 
-![Spiral Pattern Example]("Spiral_Turle\spiralTurtle.jpg")
