@@ -21,4 +21,4 @@ This program showcases how basic programming concepts like loops, randomization,
 
 
 
-![Spiral Pattern Example](Desktop\python-mini-projects\Spiral_Turle\spiralTurtle.jpg")
+![Spiral Pattern Example]("Spiral_Turle\spiralTurtle.jpg")
